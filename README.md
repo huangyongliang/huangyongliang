@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=huangyongliang)
 
-[default]: https://github-readme-stats.vercel.app/api?username=huangyongliang&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huangyongliang&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
