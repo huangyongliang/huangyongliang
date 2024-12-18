@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangyongliang&show_icons=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=huangyongliang)
+![GitHub Streak](https://streak-stats.demolab.com?user=huangyongliang)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huangyongliang&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
