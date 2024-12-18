@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=huangyongliang)
+
+[default]: https://github-readme-stats.vercel.app/api?username=huangyongliang&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
