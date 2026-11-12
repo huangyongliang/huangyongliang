@@ -1,61 +1,123 @@
-# 黄永亮 · CrazyTiger
+<h1 align="center">Huang Yongliang</h1>
 
-深圳 · [huangyongliang6@gmail.com](mailto:huangyongliang6@gmail.com)
+<p align="center">
+  <strong>CrazyTiger</strong> · Shenzhen · <a href="mailto:huangyongliang6@gmail.com">huangyongliang6@gmail.com</a>
+</p>
 
-公开仓库里的几件东西：能在线看的笔记、能在浏览器里玩的游戏，以及几个自己的项目。
+<p align="center">Java · TypeScript · JavaScript · Python</p>
 
-Notes, a browser game, and a few of the public projects.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&background=00000000&width=680&height=48&lines=Spring+Boot+%C2%B7+React+%C2%B7+Vue+%C2%B7+Docker;GitHub+Pages+%C2%B7+plain+HTML+%C2%B7+Compose;tech-notes+%C2%B7+Super+Mario+%C2%B7+kiln">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=2800&pause=900&color=3454D1&center=true&vCenter=true&background=00000000&width=680&height=48&lines=Spring+Boot+%C2%B7+React+%C2%B7+Vue+%C2%B7+Docker;GitHub+Pages+%C2%B7+plain+HTML+%C2%B7+Compose;tech-notes+%C2%B7+Super+Mario+%C2%B7+kiln">
+    <img alt="Spring Boot, React, Vue, Docker" src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=2800&pause=900&color=3454D1&center=true&vCenter=true&background=00000000&width=680&height=48&lines=Spring+Boot+%C2%B7+React+%C2%B7+Vue+%C2%B7+Docker;GitHub+Pages+%C2%B7+plain+HTML+%C2%B7+Compose;tech-notes+%C2%B7+Super+Mario+%C2%B7+kiln">
+  </picture>
+</p>
 
----
+<p align="center">
+  <sub>黄永亮 · 深圳。GitHub Pages 笔记、无构建 HTML 游戏、Spring Boot / Python 仓库。</sub>
+</p>
 
-## 项目
+<p align="center">
+  <a href="https://huangyongliang.github.io/tech-notes/"><img alt="Read tech-notes" src="https://img.shields.io/badge/Read-tech--notes-3454D1?style=for-the-badge&logo=markdown&logoColor=white"></a>
+  &nbsp;
+  <a href="https://huangyongliang.github.io/Super-Mario/"><img alt="Play Super Mario" src="https://img.shields.io/badge/Play-Super_Mario-C43E5C?style=for-the-badge&logo=html5&logoColor=white"></a>
+</p>
 
-**[tech-notes](https://github.com/huangyongliang/tech-notes)**<br>
-个人技术学习笔记，按主题整理链接、短笔记和学习记录。<br>
-[在线阅读 / Read](https://huangyongliang.github.io/tech-notes/)
+## Repositories
 
-**[Super Mario](https://github.com/huangyongliang/Super-Mario)**<br>
-用 HTML、CSS 和 JavaScript 写的平台游戏，不用构建，打开就能玩。非商业同人作品。<br>
-[试玩 / Play](https://huangyongliang.github.io/Super-Mario/)
+**[tech-notes](https://github.com/huangyongliang/tech-notes)** · [GitHub Pages](https://huangyongliang.github.io/tech-notes/)
 
-**[kiln](https://github.com/huangyongliang/kiln)**<br>
-制品构建平台的一期骨架：API、简体中文控制台，以及 Postgres、Jenkins、Gitea 的 compose。还不是完整产品。<br>
-First runnable slice of an artifact-build platform. Not a finished product.
+Topic indexes and short notes. Browse on GitHub or the Pages site.
 
-**[memora-spring](https://github.com/huangyongliang/memora-spring)**<br>
-本地多 Agent 记忆管理台，Spring Boot 3、JDK 17、React。<br>
-Local multi-agent memory management console.
+<sub>按主题索引的技术笔记，GitHub Pages 可直接看。</sub>
 
-**[ruoyi-tiger](https://github.com/huangyongliang/ruoyi-tiger)**<br>
-基于 RuoYi / Flowable 的企业管理平台，增加钉钉考勤同步和报表。二次开发自 RuoYi-Nbcio。<br>
-Enterprise platform on RuoYi / Flowable, with DingTalk attendance sync and reports.
+**[Super Mario](https://github.com/huangyongliang/Super-Mario)** · [Pages](https://huangyongliang.github.io/Super-Mario/)
 
-**[dasuan](https://github.com/huangyongliang/dasuan)**<br>
-基于微信小程序云开发的极简笔记：Markdown 编辑、图片上传、公开分享、匿名树洞。<br>
-Minimal WeChat mini-program notebook: Markdown, images, public sharing, and an anonymous box.
+HTML, CSS, and JavaScript platformer. No build: open `index.html` or the Pages URL. Tests run on Node 18+. Non-commercial fan project; pixel art and audio in the repo are original.
 
-### 学习记录
+<sub>纯 HTML / CSS / JavaScript，无构建。Node 18+ 测试。非商业同人，像素和音频是仓库原创。</sub>
 
-- [learner-JVM](https://github.com/huangyongliang/learner-JVM) — JVM
-- [learner-algorithm](https://github.com/huangyongliang/learner-algorithm) — Java 算法，含排序和最短路径
-- [learner-concurrency](https://github.com/huangyongliang/learner-concurrency) — Java 并发
+**[kiln](https://github.com/huangyongliang/kiln)**
 
----
+Python. First runnable slice of an artifact-build platform: API outline, Simplified Chinese console, and Compose for Postgres, Jenkins, and Gitea. Tests run in CI. Not a finished product.
 
-## 概况
+<sub>Python。制品构建平台一期骨架：API、中文控制台、Postgres / Jenkins / Gitea Compose。不是完整产品。</sub>
 
-按提交统计的语言，以及累计的 Star、Commit、PR 和 Issue。
+**[memora-spring](https://github.com/huangyongliang/memora-spring)**
 
-<div align="left">
+Local multi-agent memory console. Spring Boot 3 on JDK 17, React + Vite UI. Scans local agent directories and reads their Markdown memory.
+
+<sub>本地多 Agent 记忆管理台。Spring Boot 3、JDK 17、React + Vite。</sub>
+
+**[ruoyi-tiger](https://github.com/huangyongliang/ruoyi-tiger)**
+
+Enterprise admin on RuoYi / Flowable, developed from RuoYi-Nbcio. Adds DingTalk attendance sync, Excel import, and reports. Java 8, Spring Boot 2.7, Vue 2, Docker Compose.
+
+<sub>基于 RuoYi / Flowable，二次开发自 RuoYi-Nbcio。钉钉考勤同步、Excel 导入、报表。Java 8、Spring Boot 2.7、Vue 2。</sub>
+
+**[dasuan](https://github.com/huangyongliang/dasuan)**
+
+WeChat mini program on cloud development. Markdown editor, image upload, public sharing, and anonymous posts.
+
+<sub>微信小程序云开发。Markdown 编辑、图片上传、公开分享、匿名树洞。</sub>
+
+### Java study repos
+
+- [learner-JVM](https://github.com/huangyongliang/learner-JVM) — JVM notes in Java
+- [learner-algorithm](https://github.com/huangyongliang/learner-algorithm) — sorting and shortest paths (Floyd, Dijkstra, Bellman-Ford)
+- [learner-concurrency](https://github.com/huangyongliang/learner-concurrency) — Java concurrency
+
+<sub>JVM、排序与最短路径、Java 并发。</sub>
+
+## Languages and tools
+
+Used in the repositories above.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,ts,js,py,react,vue,html,css,docker&perline=10&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,ts,js,py,react,vue,html,css,docker&perline=10">
+    <img alt="Java, Spring, TypeScript, JavaScript, Python, React, Vue, HTML, CSS, Docker" height="56" src="https://skillicons.dev/icons?i=java,spring,ts,js,py,react,vue,html,css,docker&perline=10">
+  </picture>
+</p>
+
+<sub>上面这些仓库里用到的语言和工具。</sub>
+
+## Activity
+
+Commit languages, totals, streak, and the past year.
+
+<sub>提交语言、累计数字、连续提交，以及近一年贡献。</sub>
+
+<div align="center">
+
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-<source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg">
-<img alt="按提交统计的语言" src="./profile-summary-card-output/github/2-most-commit-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/2-most-commit-language.svg">
+  <img alt="Top languages by commit" src="./profile-summary-card-output/nord_bright/2-most-commit-language.svg">
 </picture>
 &nbsp;
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-<source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg">
-<img alt="仓库累计统计" src="./profile-summary-card-output/github/3-stats.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/3-stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/3-stats.svg">
+  <img alt="GitHub stats" src="./profile-summary-card-output/nord_bright/3-stats.svg">
 </picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=huangyongliang&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakNum=C0CAF5&sideNums=C0CAF5&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=565F89&stroke=1A1B27&border=1A1B27">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=huangyongliang&hide_border=true&background=FFFFFF&ring=3454D1&fire=C43E5C&currStreakNum=3454D1&sideNums=24292F&currStreakLabel=3454D1&sideLabels=57606A&dates=6E7781&stroke=FFFFFF&border=FFFFFF">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=huangyongliang&hide_border=true&background=FFFFFF&ring=3454D1&fire=C43E5C&currStreakNum=3454D1&sideNums=24292F&currStreakLabel=3454D1&sideLabels=57606A&dates=6E7781&stroke=FFFFFF&border=FFFFFF">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph-sigma.vercel.app/graph?username=huangyongliang&bg_color=1a1b27&color=7AA2F7&line=7AA2F7&point=BB9AF7&area=true&hide_border=true&radius=16&custom_title=Contributions">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph-sigma.vercel.app/graph?username=huangyongliang&bg_color=ffffff&color=3454D1&line=3454D1&point=C43E5C&area=true&hide_border=true&radius=16&custom_title=Contributions">
+  <img alt="Contribution graph for the past year" width="100%" src="https://github-readme-activity-graph-sigma.vercel.app/graph?username=huangyongliang&bg_color=ffffff&color=3454D1&line=3454D1&point=C43E5C&area=true&hide_border=true&radius=16&custom_title=Contributions">
+</picture>
+
 </div>
