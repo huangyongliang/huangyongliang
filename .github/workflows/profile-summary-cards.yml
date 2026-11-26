@@ -19,3 +19,21 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          # release (action.yml) has no hide-email input and no way to skip
+          # the profile-details card. That card redraws the public profile
+          # email on every run, so commit only after the text node is removed.
+          # The other cards are still generated and pushed.
+          AUTO_PUSH: false
+      - name: Strip public email from profile-details cards
+        run: python3 .github/scripts/strip-profile-details-email.py
+      - name: Commit profile summary cards
+        run: |
+          git config user.name "profile-summary-cards[bot]"
+          git config user.email "profile-summary-cards-bot@example.com"
+          git add profile-summary-card-output
+          if git diff --cached --quiet; then
+            echo "No card changes to commit"
+            exit 0
+          fi
+          git commit -m "Generate profile summary cards"
+          git push
